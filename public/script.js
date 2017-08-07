@@ -3,7 +3,6 @@ console.log('javascript has been sourced');
 
 $(document).ready(function() {
 
-
     // to add
     $("#add").click(function() {
         var a = $("#first").val();
